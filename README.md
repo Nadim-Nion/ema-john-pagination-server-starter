@@ -52,9 +52,40 @@ To run this server-side application:
 3. Ensure MongoDB is running locally or provide a MongoDB URI in the server configuration.
 4. Start the server using `npm start`.
 
-### Contributors
+### 🚀 About Me
+Hi, I am Nadim Mahmud Nion. I have recently concluded my graduation from the department of Computer Science and Engineering (CSE) at the Daffodil International University (DIU). I have been learning MERN Stack Web Development since 2022. I am expertise in the following skills:
 
-- **[Your Name]**: Lead Developer
-- **[Additional Contributors]**: [List of contributors]
+* React 
 
-Feel free to explore and contribute to this repository to enhance the server-side functionality of the Ema-John Shopping Website project.
+* Express.js 
+
+* Node.js 
+
+* MongoDB
+
+* Vite
+
+* React Router
+
+* Firebase
+
+* Vercel
+
+* JavaScript
+
+* Advanced JavaScript
+
+* Daisy UI 
+
+* Bootstrap
+
+* Tailwind
+
+* HTML5
+
+* CSS3
+
+* Media Query
+
+I have built multiple projects using these skills. You are invited to my GitHub profile to know about my projects and don't forget to give a star to my projects.
+
